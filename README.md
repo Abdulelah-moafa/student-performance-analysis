@@ -70,6 +70,6 @@ This project analyzes a dataset of students' performance and builds predictive m
 ---
 
 ## 📌 Author
-- Your Name (replace with yours)
+-  Name: Abdulelah Moafa
 - [GitHub Profile](https://github.com/yourusername)
 
